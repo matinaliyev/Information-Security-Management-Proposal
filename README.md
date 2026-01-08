@@ -64,40 +64,40 @@ ISO/IEC 27001 was selected as the foundation because it:
 
 ## Key ISMS Components Designed
 
-### 1️⃣ Leadership & Governance
+###  Leadership & Governance
 - Executive-level security policy
 - Defined roles, responsibilities, and authorities
 - Integration of security into business processes
 
-### 2️⃣ Risk Assessment & Management
+###  Risk Assessment & Management
 - ISO 31000–aligned risk framework
 - Risk identification, analysis, evaluation, and treatment
 - Continuous reassessment for evolving threats
 
-### 3️⃣ Operations Planning & Security
+###  Operations Planning & Security
 - Change management controls
 - Secure system operations
 - Capacity planning and monitoring
 - Third-party security oversight
 
-### 4️⃣ Organizational Structure & HR Security
+###  Organizational Structure & HR Security
 - Role-based access control (RBAC)
 - Separation of duties
 - Security awareness and onboarding training
 - Insider threat risk reduction
 
-### 5️⃣ Regulatory Compliance
+###  Regulatory Compliance
 - GDPR-aligned consent management
 - Data minimization & retention controls
 - Incident response & breach notification plans
 - Third-party compliance assurance
 
-### 6️⃣ Communication Management
+###  Communication Management
 - Internal security awareness programs
 - External stakeholder and customer notifications
 - Transparent third-party data handling communication
 
-### 7️⃣ Documentation & Control
+###  Documentation & Control
 - Centralized ISMS documentation
 - Secure access controls
 - Versioning, backups, and retention policies
